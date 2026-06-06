@@ -1,4 +1,4 @@
-# 📁 Desktop File Organizer (Automation Script)
+# Desktop File Organizer (Automation Script)
 
 ## Overview
 The **Desktop File Organizer** is a Python-based automation tool designed to keep a user's desktop clean, structured, and clutter-free. The script scans all files located on the desktop, identifies their file types, and automatically organizes them into predefined category folders.
@@ -12,12 +12,12 @@ This project was built to solve a real-world problem where desktops gradually be
 - Detects file types based on file extensions
 - Creates category folders if they do not already exist
 - Sorts files into organized directories:
-  - 📷 Images
-  - 🎵 Music
-  - 🎬 Videos
-  - 📄 Documents
-  - 🧩 Applications / Installers
-  - 🎮 Games
+  - Images
+  - Music
+  - Videos
+  - Documents
+  - Applications / Installers
+  - Games
 - Prevents overwriting existing files
 - Fully local execution (no internet or external services required)
 
